@@ -1,4 +1,4 @@
-#Zomato_Insights_Dashboard
+##Zomato_Insights_Dashboard
 
 This dataset and dashboard provide insights into restaurant data from Zomato across various countries and cities, with details on restaurant characteristics, cuisine types, and geographic locations. The Power BI dashboard (Zomato_Insights_Dashboard.pbix) visualizes this data to facilitate analysis of restaurant trends, geographical distributions, and popular cuisines.
 
